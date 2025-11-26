@@ -8,7 +8,7 @@ funny-shawarma-game is a 2D Pygame adventure where Imene tries to reclaim her st
 
 Imene went out to eat, but her friends **Rieb, Nour, and Kamel** stole her Shawarma! To get it back:
 
-1. Face **Rieb** in Level 1 (he throws cats).
+1. Face **Rieb** in Level 1 (she throws cats).
 2. Confront **Nour** in Level 2 (he throws knives).
 3. Defeat **Kamel** in Level 3, who guards the Shawarma.
 
