@@ -1,9 +1,8 @@
 # funny-shawarma-game
 
 **Description:**
-# funny-shawarma-game is a 2D Pygame adventure where Imene tries to reclaim her stolen Shawarma from her mischievous friends! Navigate through three challenging levels, dodge enemy attacks, and collect snacks to succeed.
+funny-shawarma-game is a 2D Pygame adventure where Imene tries to reclaim her stolen Shawarma from her mischievous friends! Navigate through three challenging levels, dodge enemy attacks, and collect snacks to succeed.
 
----
 
 ## **Story**
 
@@ -15,7 +14,6 @@ Imene went out to eat, but her friends **Rieb, Nour, and Kamel** stole her Shawa
 
 Collect at least **25 snacks** along the way to win the final battle.
 
----
 
 ## **Gameplay**
 
@@ -40,7 +38,7 @@ Collect at least **25 snacks** along the way to win the final battle.
   * Lose all 3 hearts → Game Over.
   * Reach final level with <25 snacks → cannot reclaim Shawarma.
 
----
+
 
 ## **Installation**
 
@@ -92,13 +90,13 @@ ShawarmaQuest/
 * Game Concept: Imene Laadheri
 * Developed with: [Pygame](https://www.pygame.org/)
 
----
+
 
 ## **License**
 
 This project is open-source. Feel free to modify or share!
 
----
+
 
 ## **Future Features**
 
@@ -107,6 +105,6 @@ This project is open-source. Feel free to modify or share!
 * Power-ups for Imene.
 * Highscore tracking.
 
----
+
 
 **Have fun getting your Shawarma back! 🍔😄**
