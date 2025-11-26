@@ -1,7 +1,7 @@
 # funny-shawarma-game
 
 **Description:**
-Shawarma Quest is a 2D Pygame adventure where Imene tries to reclaim her stolen Shawarma from her mischievous friends! Navigate through three challenging levels, dodge enemy attacks, and collect snacks to succeed.
+# funny-shawarma-game is a 2D Pygame adventure where Imene tries to reclaim her stolen Shawarma from her mischievous friends! Navigate through three challenging levels, dodge enemy attacks, and collect snacks to succeed.
 
 ---
 
