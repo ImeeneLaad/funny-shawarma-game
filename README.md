@@ -87,7 +87,6 @@ ShawarmaQuest/
 
 ## **Credits**
 
-* Game Concept: Imene Laadheri
 * Developed with: [Pygame](https://www.pygame.org/)
 
 
